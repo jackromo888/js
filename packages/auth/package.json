@@ -76,7 +76,7 @@
     "ethers": "^5.7.1",
     "express": "^4.18.1",
     "next": "^12.2.0",
-    "next-auth": "^4.10.3",
+    "next-auth": "^4.20.1",
     "prettier": "^2.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -87,7 +87,7 @@
     "ethers": ">=5.5.1",
     "express": "^4.18.1",
     "next": "^12.2.0",
-    "next-auth": "^4.10.3"
+    "next-auth": "^4.20.1"
   },
   "peerDependenciesMeta": {
     "express": {
