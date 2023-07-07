@@ -39,7 +39,7 @@
     "form-data": "^4.0.0",
     "got": "11.8.5",
     "inquirer": "^8.2.3",
-    "ipfs-unixfs": "^6.0.7",
+    "ipfs-unixfs": "^7.0.0",
     "ipld-dag-pb": "^0.22.3",
     "multihashes": "^4.0.3",
     "open": "^8.4.0",
