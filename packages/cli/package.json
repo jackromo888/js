@@ -46,7 +46,7 @@
     "prompts": "^2.4.2",
     "rimraf": "^3.0.2",
     "solc": "0.8.13",
-    "tar": "^6.1.11",
+    "tar": "^6.2.1",
     "tslog": "^3.3.3",
     "update-check": "^1.5.4",
     "update-notifier": "^6.0.2",
