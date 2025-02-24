@@ -99,7 +99,7 @@
     "@react-icons/all-files": "^4.1.0",
     "@tanstack/react-query": "^4.0.10",
     "@zag-js/menu": "0.1.14",
-    "@zag-js/react": "0.1.16",
+    "@zag-js/react": "0.82.2",
     "buffer": "^6.0.3",
     "color": "^4.2.3",
     "copy-to-clipboard": "^3.3.2",
