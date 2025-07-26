@@ -36,7 +36,7 @@
     "cpy": "^9.0.1",
     "enquirer": "^2.3.6",
     "ethers": "^5.7.0",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "got": "11.8.5",
     "inquirer": "^8.2.3",
     "ipfs-unixfs": "^6.0.7",
